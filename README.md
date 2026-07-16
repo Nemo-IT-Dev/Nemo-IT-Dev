@@ -17,7 +17,7 @@ nelson-morales --role="Full Stack developer freelance"     \
 
 ## Hola, soy Nelson Morales 👋
 
-**Frontend developer freelance** y operador único detrás de **Morales | Código & Estrategia**. No soy una agencia que desaparece tras el pago: soy quien escribe cada línea del código, diseña la estrategia de conversión y responde el chat a las 11pm. Trabajo con Pymes y freelancers de LATAM que están cansados de plantillas genéricas y quieren una web que cargue en milisegundos y convierta de verdad.
+**Web developer freelance** y operador único detrás de **Morales | Código & Estrategia**. No soy una agencia que desaparece tras el pago: soy quien escribe cada línea del código, diseña la estrategia de conversión y responde el chat a las 11pm. Trabajo con Pymes y freelancers de LATAM que están cansados de plantillas genéricas y quieren una web que cargue en milisegundos y convierta de verdad.
 
 Mi enfoque es artesanal: pocos proyectos a la vez, cada uno construido desde cero con Astro + TypeScript + Tailwind, sin page builders ni temas reciclados. La velocidad no es un extra, es el punto de partida. La estrategia UX/UI no es un entregable, es la conversación que empieza antes de tocar el teclado.
 
