@@ -1,14 +1,14 @@
 <div align="center">
 
-<img src="assets/banner.svg" width="100%" alt="MORALES_ — Tu web debería estar trayéndote clientes" />
+<img src="assets/banner.svg" width="100%" alt="MORALES_ — webs y apps nativas a medida" />
 
-<img src="https://raw.githubusercontent.com/Nemo-IT-Dev/Nemo-IT-Dev/output/github-snake.svg" alt="Snake recorriendo mis contribuciones" width="100%" />
+<img src="assets/terminal.svg" width="100%" alt="nelson@morales — terminal desplegando capacidades" />
 
 </div>
 
 ## // lo que construyo
 
-**🌐 Webs** — institucionales, landings de alta conversión y e-commerce. Hiperoptimizadas: la velocidad no es un extra, es el punto de partida. La estrategia UX/UI empieza antes de escribir la primera línea de código.
+**🌐 Webs** — institucionales, landings de alta conversión y e-commerce. Hiperoptimizadas: la velocidad no es un extra, es el punto de partida, y la estrategia UX/UI empieza antes de escribir la primera línea de código.
 
 **📱 Aplicaciones nativas** — de escritorio y móvil, a la medida de tu operación: automatizar procesos, gestionar inventario, llevar tu servicio al bolsillo de tus clientes.
 
@@ -36,12 +36,6 @@ Trabajos entregados a clientes reales. El código es privado, el resultado habla
 
 ## // contacto
 
-```bash
-❯ ./iniciar_proyecto.sh
-[ OK ]  Visión recibida
-[ OK ]  Estrategia propuesta en 24h
-[ OK ]  Código a medida, cero plantillas
+Hablamos directo: sin intermediarios, sin formularios eternos.
 
-→ morales130603@gmail.com
-→ https://nelson-morales.vercel.app/
-```
+✉️ **[morales130603@gmail.com](mailto:morales130603@gmail.com)** · 🌐 **[nelson-morales.vercel.app](https://nelson-morales.vercel.app/)**
