@@ -19,7 +19,7 @@
   <rect x="1" y="45" width="898" height="334" fill="url(#scan)"/>
 
   <g font-family="JetBrains Mono,Consolas,monospace" font-size="15">
-    <text y="84"><tspan fill="#5bf0b8">❯</tspan><tspan dx="10" fill="#eef2f7">./build --target="tu-negocio"</tspan><animate attributeName="opacity" values="0;0;1" keyTimes="0;0.033;0.063" dur="9.2s" repeatCount="indefinite"/></text>
+    <text y="84"><tspan fill="#5bf0b8">❯</tspan><tspan dx="10" fill="#eef2f7">./build </tspan><tspan fill="#6cb6ff">--target="tu-negocio"</tspan><animate attributeName="opacity" values="0;0;1" keyTimes="0;0.033;0.063" dur="9.2s" repeatCount="indefinite"/></text>
     <text y="114" fill="#8f9aa4">resolviendo arquitectura…<animate attributeName="opacity" values="0;0;1" keyTimes="0;0.13;0.16" dur="9.2s" repeatCount="indefinite"/></text>
     <text y="144"><tspan fill="#5bf0b8" font-weight="700">[ OK ]</tspan><tspan dx="10" fill="#eef2f7">webs que cargan en milisegundos</tspan><animate attributeName="opacity" values="0;0;1" keyTimes="0;0.207;0.237" dur="9.2s" repeatCount="indefinite"/></text>
     <text y="174"><tspan fill="#5bf0b8" font-weight="700">[ OK ]</tspan><tspan dx="10" fill="#eef2f7">apps nativas de escritorio y móvil</tspan><animate attributeName="opacity" values="0;0;1" keyTimes="0;0.293;0.323" dur="9.2s" repeatCount="indefinite"/></text>
