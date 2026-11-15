@@ -10,8 +10,8 @@
 
   <circle cx="26" cy="22" r="6" fill="#2b343d"/>
   <circle cx="46" cy="22" r="6" fill="#2b343d"/>
-  <circle cx="66" cy="22" r="6" fill="#5bf0b8" opacity="0.75">
-    <animate attributeName="opacity" values="0.75;0.3;0.75" dur="2.4s" repeatCount="indefinite"/>
+  <circle cx="66" cy="22" r="6" fill="#5bf0b8" opacity="0.7">
+    <animate attributeName="opacity" values="0.7;0.3;0.7" dur="2.4s" repeatCount="indefinite"/>
   </circle>
   <text x="84" y="27" font-family="JetBrains Mono,Consolas,monospace" font-size="13" fill="#eef2f7">nelson@morales</text>
   <text x="876" y="27" text-anchor="end" font-family="JetBrains Mono,Consolas,monospace" font-size="11" letter-spacing="1" fill="#8f9aa4">webs · apps nativas · automatización</text>
@@ -19,13 +19,13 @@
   <rect x="1" y="45" width="898" height="334" fill="url(#scan)"/>
 
   <g font-family="JetBrains Mono,Consolas,monospace" font-size="15">
-    <text y="84"><tspan fill="#5bf0b8">❯</tspan><tspan dx="10" fill="#eef2f7">./build </tspan><tspan fill="#6cb6ff">--target="tu-negocio"</tspan><animate attributeName="opacity" values="0;0;1" keyTimes="0;0.033;0.063" dur="9.2s" repeatCount="indefinite"/></text>
+    <text y="84"><tspan fill="#5bf0b8">❯</tspan><tspan dx="10" fill="#eef2f7">./build --target="tu-negocio"</tspan><animate attributeName="opacity" values="0;0;1" keyTimes="0;0.033;0.063" dur="9.2s" repeatCount="indefinite"/></text>
     <text y="114" fill="#8f9aa4">resolviendo arquitectura…<animate attributeName="opacity" values="0;0;1" keyTimes="0;0.13;0.16" dur="9.2s" repeatCount="indefinite"/></text>
     <text y="144"><tspan fill="#5bf0b8" font-weight="700">[ OK ]</tspan><tspan dx="10" fill="#eef2f7">webs que cargan en milisegundos</tspan><animate attributeName="opacity" values="0;0;1" keyTimes="0;0.207;0.237" dur="9.2s" repeatCount="indefinite"/></text>
     <text y="174"><tspan fill="#5bf0b8" font-weight="700">[ OK ]</tspan><tspan dx="10" fill="#eef2f7">apps nativas de escritorio y móvil</tspan><animate attributeName="opacity" values="0;0;1" keyTimes="0;0.293;0.323" dur="9.2s" repeatCount="indefinite"/></text>
     <text y="204"><tspan fill="#5bf0b8" font-weight="700">[ OK ]</tspan><tspan dx="10" fill="#eef2f7">automatización que trabaja mientras duermes</tspan><animate attributeName="opacity" values="0;0;1" keyTimes="0;0.38;0.41" dur="9.2s" repeatCount="indefinite"/></text>
-    <text y="234" fill="#f5c46a">⚠ plantillas detectadas: 0<animate attributeName="opacity" values="0;0;1" keyTimes="0;0.467;0.497" dur="9.2s" repeatCount="indefinite"/></text>
-    <text y="264" fill="#ea6ae2" font-weight="700">→ listo para tu proyecto<animate attributeName="opacity" values="0;0;1" keyTimes="0;0.554;0.584" dur="9.2s" repeatCount="indefinite"/></text>
+    <text y="234" fill="#8f9aa4">plantillas detectadas: 0<animate attributeName="opacity" values="0;0;1" keyTimes="0;0.467;0.497" dur="9.2s" repeatCount="indefinite"/></text>
+    <text y="264" fill="#eef2f7" font-weight="700">listo para tu proyecto<animate attributeName="opacity" values="0;0;1" keyTimes="0;0.554;0.584" dur="9.2s" repeatCount="indefinite"/></text>
     <text y="294"><tspan fill="#5bf0b8">❯</tspan>
       <rect x="26" y="282" width="9" height="18" fill="#5bf0b8"><animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.5;0.5;1" dur="1.1s" repeatCount="indefinite"/></rect>
     </text>
