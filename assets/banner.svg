@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340" role="img" aria-label="MORALES_ — Tu web debería estar trayéndote clientes">
+  <defs>
+    <pattern id="grid" width="48" height="48" patternUnits="userSpaceOnUse">
+      <path d="M48 0H0V48" fill="none" stroke="#2b343d" stroke-width="1"/>
+    </pattern>
+    <radialGradient id="fade" cx="50%" cy="30%" r="80%">
+      <stop offset="0%" stop-color="#ffffff"/>
+      <stop offset="100%" stop-color="#ffffff" stop-opacity="0"/>
+    </radialGradient>
+    <mask id="gridMask"><rect width="1200" height="340" fill="url(#fade)"/></mask>
+    <radialGradient id="glow" cx="50%" cy="45%" r="60%">
+      <stop offset="0%" stop-color="#5bf0b8" stop-opacity="0.10"/>
+      <stop offset="100%" stop-color="#5bf0b8" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+
+  <rect width="1200" height="340" fill="#080d11"/>
+  <rect width="1200" height="340" fill="url(#glow)"/>
+  <rect width="1200" height="340" fill="url(#grid)" mask="url(#gridMask)" opacity="0.55"/>
+
+  <g stroke="#2b343d" fill="none" stroke-width="2">
+    <path d="M28 44V20h24"/>
+    <path d="M1148 20h24v24"/>
+    <path d="M1172 296v24h-24"/>
+    <path d="M52 320H28v-24"/>
+  </g>
+
+  <text x="60" y="62" font-family="JetBrains Mono,Consolas,monospace" font-size="14" letter-spacing="4" fill="#5bf0b8">// ARQUITECTURA WEB · CÓDIGO A MEDIDA</text>
+  <text x="1140" y="62" text-anchor="end" font-family="JetBrains Mono,Consolas,monospace" font-size="13" letter-spacing="2" fill="#8f9aa4">x000 · y000</text>
+
+  <text x="56" y="172" font-family="JetBrains Mono,Consolas,monospace" font-weight="700" font-size="84" letter-spacing="2" fill="#eef2f7">MORALES</text>
+  <text x="432" y="172" font-family="JetBrains Mono,Consolas,monospace" font-weight="700" font-size="84" fill="#5bf0b8">_
+    <animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.5;0.5;1" dur="1.1s" repeatCount="indefinite"/>
+  </text>
+
+  <text x="58" y="232" font-family="JetBrains Mono,Consolas,monospace" font-size="26" letter-spacing="1" fill="#8f9aa4">Tu web debería estar trayéndote clientes.</text>
+
+  <text x="58" y="302" font-family="JetBrains Mono,Consolas,monospace" font-size="14" letter-spacing="2" fill="#8f9aa4">// disponible para nuevos proyectos — latam</text>
+  <text x="1142" y="302" text-anchor="end" font-family="JetBrains Mono,Consolas,monospace" font-size="14" letter-spacing="2" fill="#eef2f7">nelson morales · desarrollador freelance</text>
+</svg>
