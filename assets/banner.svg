@@ -1,44 +1,37 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340" role="img" aria-label="MORALES_ — webs y apps nativas a medida">
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-label="Nelson Morales — desarrollador freelance, webs y apps nativas">
   <defs>
-    <pattern id="grid" width="48" height="48" patternUnits="userSpaceOnUse">
-      <path d="M48 0H0V48" fill="none" stroke="#2b343d" stroke-width="1"/>
-    </pattern>
-    <radialGradient id="fade" cx="50%" cy="30%" r="80%">
-      <stop offset="0%" stop-color="#ffffff"/>
-      <stop offset="100%" stop-color="#ffffff" stop-opacity="0"/>
+    <radialGradient id="bathy" cx="50%" cy="120%" r="90%">
+      <stop offset="0%" stop-color="#0e1626"/>
+      <stop offset="100%" stop-color="#0a1220"/>
     </radialGradient>
-    <mask id="gridMask"><rect width="1200" height="340" fill="url(#fade)"/></mask>
   </defs>
 
-  <rect width="1200" height="340" fill="#080d11"/>
-  <rect width="1200" height="340" fill="url(#grid)" mask="url(#gridMask)" opacity="0.5"/>
+  <rect width="1200" height="360" fill="url(#bathy)"/>
+  <rect x="14" y="14" width="1172" height="332" fill="none" stroke="#16233a" stroke-width="1.5"/>
 
-  <g stroke="#2b343d" fill="none" stroke-width="2">
-    <path d="M28 44V20h24"/>
-    <path d="M1148 20h24v24"/>
-    <path d="M1172 296v24h-24"/>
-    <path d="M52 320H28v-24"/>
+  <text x="80" y="66" font-family="Fraunces, Georgia, 'Times New Roman', serif" font-size="15" letter-spacing="6" fill="#93a5b8">DESARROLLADOR FREELANCE · WEBS &amp; APPS NATIVAS</text>
+  <line x1="80" y1="84" x2="1120" y2="84" stroke="#1e2e42" stroke-width="1"/>
+
+  <text x="78" y="185" font-family="Fraunces, Georgia, 'Times New Roman', serif" font-weight="600" font-size="88" letter-spacing="1" fill="#e8e6e1">Nelson Morales</text>
+  <text x="82" y="232" font-family="Fraunces, Georgia, 'Times New Roman', serif" font-size="15" letter-spacing="5" fill="#93a5b8">TRABAJO PROFUNDO · RESULTADOS A MEDIDA</text>
+
+  <g transform="translate(640,150) scale(0.8)" stroke="#7fb8a4" fill="none" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round">
+    <g>
+      <animateTransform attributeName="transform" type="translate" values="0 0; 16 -8; 0 0" keyTimes="0;0.5;1" calcMode="spline" keySplines="0.4 0 0.6 1;0.4 0 0.6 1" dur="14s" repeatCount="indefinite"/>
+      
+    <path d="M30 125 C 60 85, 150 64, 260 66 C 370 68, 450 88, 520 105 C 540 100, 552 88, 558 70 C 566 92, 564 108, 550 118 C 566 120, 578 128, 586 142 C 566 144, 548 140, 534 132 C 480 158, 380 172, 270 172 C 170 172, 90 160, 48 142 C 38 137, 32 131, 30 125 Z"/>
+    <path d="M120 150 C 200 162, 360 162, 470 148" opacity="0.3" stroke-width="1.5"/>
+    <path d="M176 168 q -8 24 -36 30"/>
+    <path d="M32 128 q 26 8 58 10" opacity="0.5" stroke-width="1.5"/>
+    <circle cx="64" cy="110" r="3.5" fill="#7fb8a4" stroke="none"/>
+    </g>
   </g>
 
-  <text x="60" y="62" font-family="JetBrains Mono,Consolas,monospace" font-size="14" letter-spacing="4"><tspan fill="#5bf0b8">//</tspan><tspan dx="8" fill="#8f9aa4">ARQUITECTURA WEB · CÓDIGO A MEDIDA</tspan></text>
-  <text x="1140" y="62" text-anchor="end" font-family="JetBrains Mono,Consolas,monospace" font-size="13" letter-spacing="2" fill="#8f9aa4">LATAM · REMOTE</text>
-
-  <text x="56" y="172" font-family="JetBrains Mono,Consolas,monospace" font-weight="700" font-size="84" letter-spacing="2" fill="#eef2f7">MORALES</text>
-  <text x="432" y="172" font-family="JetBrains Mono,Consolas,monospace" font-weight="700" font-size="84" fill="#5bf0b8">_
-    <animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.5;0.5;1" dur="1.1s" repeatCount="indefinite"/>
-  </text>
-
-  <g font-family="JetBrains Mono,Consolas,monospace" font-size="15" letter-spacing="1">
-    <rect x="58" y="206" width="64" height="34" rx="4" fill="#11171c" stroke="#2b343d"/>
-    <text x="90" y="228" text-anchor="middle" fill="#8f9aa4">webs</text>
-    <rect x="136" y="206" width="136" height="34" rx="4" fill="#11171c" stroke="#2b343d"/>
-    <text x="204" y="228" text-anchor="middle" fill="#8f9aa4">apps nativas</text>
-    <rect x="286" y="206" width="154" height="34" rx="4" fill="#11171c" stroke="#2b343d"/>
-    <text x="363" y="228" text-anchor="middle" fill="#8f9aa4">automatización</text>
+  <line x1="80" y1="318" x2="1120" y2="318" stroke="#1e2e42" stroke-width="1"/>
+  <g stroke="#1e2e42" stroke-width="1">
+    <line x1="80" y1="313" x2="80" y2="323"/><line x1="290" y1="315" x2="290" y2="321"/><line x1="500" y1="315" x2="500" y2="321"/><line x1="710" y1="315" x2="710" y2="321"/><line x1="920" y1="315" x2="920" y2="321"/><line x1="1120" y1="313" x2="1120" y2="323"/>
   </g>
-
-  <text x="58" y="282" font-family="JetBrains Mono,Consolas,monospace" font-size="14" letter-spacing="1"><tspan fill="#5bf0b8">//</tspan><tspan dx="8" fill="#8f9aa4">pocos proyectos a la vez — hablas directo con quien escribe el código</tspan></text>
-
-  <text x="58" y="306" font-family="JetBrains Mono,Consolas,monospace" font-size="14" letter-spacing="2"><tspan fill="#5bf0b8">//</tspan><tspan dx="8" fill="#8f9aa4">disponible para nuevos proyectos</tspan></text>
-  <text x="1142" y="306" text-anchor="end" font-family="JetBrains Mono,Consolas,monospace" font-size="14" letter-spacing="2" fill="#eef2f7">nelson morales · desarrollador freelance</text>
+  <circle cx="500" cy="318" r="3.5" fill="#7fb8a4"><animate attributeName="opacity" values="0.4;1;0.4" dur="5s" repeatCount="indefinite"/></circle>
+  <text x="80" y="340" font-family="Fraunces, Georgia, 'Times New Roman', serif" font-style="italic" font-size="13" fill="#93a5b8">0 m</text>
+  <text x="1120" y="340" text-anchor="end" font-family="Fraunces, Georgia, 'Times New Roman', serif" font-style="italic" font-size="13" fill="#7fb8a4">sondeando · 042 m</text>
 </svg>

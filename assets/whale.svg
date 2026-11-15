@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="140" viewBox="0 0 900 140" role="img" aria-label="Ballena — separador">
+  <rect width="900" height="140" fill="#0a1220"/>
+  <line x1="60" y1="70" x2="300" y2="70" stroke="#1e2e42" stroke-width="1"/>
+  <line x1="600" y1="70" x2="840" y2="70" stroke="#1e2e42" stroke-width="1"/>
+  <g transform="translate(317,8) scale(0.42)" stroke="#7fb8a4" fill="none" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" opacity="0.85">
+    <g>
+      <animateTransform attributeName="transform" type="translate" values="0 0; 10 -5; 0 0" keyTimes="0;0.5;1" calcMode="spline" keySplines="0.4 0 0.6 1;0.4 0 0.6 1" dur="14s" repeatCount="indefinite"/>
+      
+    <path d="M30 125 C 60 85, 150 64, 260 66 C 370 68, 450 88, 520 105 C 540 100, 552 88, 558 70 C 566 92, 564 108, 550 118 C 566 120, 578 128, 586 142 C 566 144, 548 140, 534 132 C 480 158, 380 172, 270 172 C 170 172, 90 160, 48 142 C 38 137, 32 131, 30 125 Z"/>
+    <path d="M120 150 C 200 162, 360 162, 470 148" opacity="0.3" stroke-width="1.5"/>
+    <path d="M176 168 q -8 24 -36 30"/>
+    <path d="M32 128 q 26 8 58 10" opacity="0.5" stroke-width="1.5"/>
+    <circle cx="64" cy="110" r="3.5" fill="#7fb8a4" stroke="none"/>
+    </g>
+  </g>
+</svg>
